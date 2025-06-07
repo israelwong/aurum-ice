@@ -28,7 +28,7 @@ const HeroSection = () => {
                         30% Off
                     </h2>
                     <p className="mt-2 text-xl text-gray-200 font-sans">
-                        Obten un dulce del cuento en tu primera compra
+                        Obtén un dulce descuento en tu primera compra
                     </p>
                     {/* <div className="mt-8">
                         <Button className="px-10 py-3 text-lg">
